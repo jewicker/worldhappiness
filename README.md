@@ -7,4 +7,6 @@ The issued World Happiness Report is quite extensive, but as far as I can ascert
 
 The datasets that are read into this program should be stored in a subdirectory named “datafiles”.
 
+The file worldhappiness_test.py is in the test_file directory. This file confirms of the data are being read correctly and have the correct form. In order to run this program, it needs to be placed one directory above the datafiles directory.
+
 This program runs in Python 3.8.
